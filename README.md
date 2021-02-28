@@ -8,7 +8,7 @@ Ele possui a pagina index, que é possivel selecionar os niveis, sendo que possu
 
 Interface do jogo.
 
-![image](https://user-images.githubusercontent.com/69177726/109426143-c2979200-79ca-11eb-87e1-5bcdf4dc41f2.png)
+![image](https://user-images.githubusercontent.com/69177726/109426196-11ddc280-79cb-11eb-8a65-14749cedb8dd.png)
 
 
 Caso você consiga sobrevivier durante todo o tempo, você ganha o game.
